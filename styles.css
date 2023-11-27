@@ -1,0 +1,21 @@
+body {
+    font-family: Nunito, sans-serif;
+    text-align: start;
+    margin: 0;
+}
+
+.cell {
+    display: inline-block;
+    border-right: 1px solid #555;
+    border-bottom: 1px solid #555;
+    width: 120px;
+    min-height: 24px;
+    padding-left: 4px;
+    padding-top: 4px;
+    cursor: pointer;
+}
+
+.cell:focus {
+    outline: none;
+    border: 1px solid #007BFF;
+}
