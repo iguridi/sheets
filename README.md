@@ -9,6 +9,8 @@
 - [ ] support links
 - [ ] suppot images
 - [ ] merge cells
+- [ ] move rows and columns
+- [ ] command palette
 
 principles:
 
